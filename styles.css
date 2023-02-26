@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(153, 255, 255);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.process {
+  background-color: rgb(200, 255, 255);
+}
+
+.main {
+  text-align: center;
+}
+
+.thumb {
+  height: auto;
+  width: 250px;
+}
+
+.top-img {
+  height: auto;
+  width: 800px;
+}
+
+h1 {
+  color: royalblue;
+  text-align: center;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+}
